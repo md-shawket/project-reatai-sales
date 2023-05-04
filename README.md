@@ -1,2 +1,2 @@
-# project-reatai-sales
+# project-reatail-sales
 Online Sales Platform
